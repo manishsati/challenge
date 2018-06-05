@@ -1,0 +1,11 @@
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\bin\Release\netcoreapp2.0\ms.personal.challenge.deps.json
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\bin\Release\netcoreapp2.0\ms.personal.challenge.runtimeconfig.json
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\bin\Release\netcoreapp2.0\ms.personal.challenge.runtimeconfig.dev.json
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\bin\Release\netcoreapp2.0\ms.personal.challenge.dll
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\bin\Release\netcoreapp2.0\ms.personal.challenge.pdb
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.csprojResolveAssemblyReference.cache
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.csproj.CoreCompileInputs.cache
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.AssemblyInfoInputs.cache
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.AssemblyInfo.cs
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.dll
+D:\Work\Source\repos\ms.personal.challenge\ms.personal.challenge\obj\Release\netcoreapp2.0\ms.personal.challenge.pdb
